@@ -1,0 +1,8 @@
+<html>
+  <body>
+     <form method="get" action="test.php">
+     <input type="text" size="20" name="MaVar" />
+     <input type="submit" />
+   </form>
+</body>
+</html>
